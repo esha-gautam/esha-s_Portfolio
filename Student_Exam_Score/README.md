@@ -268,7 +268,7 @@ plt.show()
 
 
     
-![png]([Student_Exam_Score/Student_Exam_Score/output_8_0.png](https://github.com/esha-gautam/esha-s_Portfolio/blob/main/Student_Exam_Score/output_8_0.png))
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/def409bfc8798f6f85b9ceff8853b6d800aa13cd/Student_Exam_Score/output_8_0.png)
     
 
 

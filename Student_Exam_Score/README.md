@@ -268,7 +268,7 @@ plt.show()
 
 
     
-!(Student_Exam_Score/output_8_0.png)
+![png](Student_Exam_Score/Student_Exam_Score/output_8_0.png)
     
 
 

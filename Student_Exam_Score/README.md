@@ -304,7 +304,7 @@ plt.show()
 
 
     
-![png](Student_Exam_Score/output_11_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_11_0.png)
     
 
 
@@ -336,7 +336,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\7cad2533-123a-4857-8b13-0fc849418e13_Student_Exam_Performance.zip.e13\output_14_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_14_0.png)
     
 
 
@@ -367,7 +367,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\789d01dd-9962-4c76-9de9-b562a75466d5_Student_Exam_Performance.zip.6d5\output_17_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_17_0.png)
     
 
 
@@ -386,7 +386,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\9f1de9d7-e75c-47df-9275-ba3b44da7f98_Student_Exam_Performance.zip.f98\output_20_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_20_0.png)
     
 
 
@@ -398,7 +398,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\0279fc96-ec2c-43b1-99c3-e03f6a553404_Student_Exam_Performance.zip.404\output_21_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_21_0.png)
     
 
 
@@ -410,7 +410,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\86527fc8-8aca-422b-bce6-d46812663d26_Student_Exam_Performance.zip.d26\output_22_0.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_22_0.png)
     
 
 
@@ -442,7 +442,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\f795b457-13ea-433f-b299-96f352fac261_Student_Exam_Performance.zip.261\output_25_1.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_25_1.png)
     
 
 
@@ -465,7 +465,7 @@ ax.bar_label(ax.containers[0])
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\d1bc75ce-63eb-4bd7-ad2d-166f6b10281e_Student_Exam_Performance.zip.81e\output_26_1.png)
+![png](https://github.com/esha-gautam/esha-s_Portfolio/blob/b789391f4f2c278b5e777c466dea3404d90d1631/Student_Exam_Score/output_26_1.png)
 
 
 

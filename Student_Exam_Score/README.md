@@ -268,7 +268,7 @@ plt.show()
 
 
     
-![png](C:\Users\Asus\AppData\Local\Temp\2ad754e4-1551-41b5-994d-3de9407886f1_Student_Exam_Performance.zip.6f1\output_8_0.png)
+![png](Student_Exam_Score/output_8_0.png)
     
 
 
